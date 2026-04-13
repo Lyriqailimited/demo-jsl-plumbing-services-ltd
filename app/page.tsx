@@ -11,7 +11,7 @@ export default function Home() {
             JSL Plumbing Services Ltd
           </h1>
           <p style={{ fontSize: '1.2rem', color: 'rgba(255,255,255,0.8)', marginBottom: 32, lineHeight: 1.6 }}>
-            Glasgow's trusted plumber since 2006 — fast, reliable, and fully recommended
+            Glasgow's trusted plumber since 2006 â€” fast, reliable, and fully recommended
           </p>
           <div style={{ display: 'flex', gap: 16, justifyContent: 'center', flexWrap: 'wrap' }}>
             <a href="#widget" style={{ background: 'rgba(255,255,255,0.2)', color: 'white', padding: '14px 32px', borderRadius: 12, fontWeight: 700, fontSize: '1rem', textDecoration: 'none', display: 'inline-block', border: '1px solid rgba(255,255,255,0.4)' }}>
